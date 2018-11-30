@@ -13,3 +13,4 @@ RUN npm install react
 RUN npm install react-dom
 RUN npm install react-scripts
 RUN npm install react-router-dom
+RUN npm install reactstrap
